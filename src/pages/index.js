@@ -18,7 +18,7 @@ class Index extends React.Component {
         return (
             <div>
                 <Helmet>
-                    <title>Zelgai Nemati Abstract</title>
+                    <title>Zawash Nemati Abstract</title>
                     <meta name="description" content={site.meta.description}/>
                 </Helmet>
                 <Layout

@@ -167,7 +167,7 @@ class HeroPersonal extends React.Component {
                             Hello, I'm
                         </SubHeading>
                         <Heading className="parallax-hero-item">
-                            <Glitch text="Zelgai" />
+                            <Glitch text="Zawash" />
                         </Heading>
                         <Type className="parallax-hero-item">
                             <Typewriter
